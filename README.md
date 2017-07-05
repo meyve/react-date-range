@@ -1,7 +1,8 @@
 # react-date-range
-![](https://badge.fury.io/js/react-date-range.svg)
-![](https://david-dm.org/Adphorus/react-date-range.svg)
-![](https://david-dm.org/Adphorus/react-date-range/dev-status.svg)
+
+#WARNING:
+###This is a fork from [Adphorus' react-date-range](https://github.com/Adphorus/react-date-range)
+###I assume, author does not support his package anymore so I fixed some minor bugs with locales and published it to npm. Feel free to use. All credits goes to [Adphorus](https://github.com/Adphorus).
 
 A React component for choosing dates and date ranges. Uses [Moment.js](http://momentjs.com/) for date operations.
 
