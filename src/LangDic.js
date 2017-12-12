@@ -187,5 +187,5 @@ export default {
     'th':'Pe',
     'fr':'Cu',
     'sa':'Cts'
-  },
+  }
 }
